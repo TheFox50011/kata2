@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="616101a5-4103-4068-b0fd-47f1e1c85623" name="Changes" comment="Commit inicial">
-      <change afterPath="$PROJECT_DIR$/kata2/src/main/java/software/ulpgc/kata2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kata2/src/main/java/software/ulpgc/kata2/io/MovieLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kata2/src/main/java/software/ulpgc/kata2/io/MovieParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kata2/src/main/java/software/ulpgc/kata2/io/RemoteMovieLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kata2/src/main/java/software/ulpgc/kata2/io/TsvMovieParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kata2/src/main/java/software/ulpgc/kata2/model/Movie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/kata2/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/kata2/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/kata2/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/kata2/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="616101a5-4103-4068-b0fd-47f1e1c85623" name="Changes" comment="Creado la clase main">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,11 +89,37 @@
       <option name="project" value="LOCAL" />
       <updated>1759861775525</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit inicial">
+      <option name="closed" value="true" />
+      <created>1762165824754</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1762165824754</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Creado interfaces, clases y record principales">
+      <option name="closed" value="true" />
+      <created>1762165914766</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1762165914766</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Creado la clase main">
+      <option name="closed" value="true" />
+      <created>1762165934071</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1762165934071</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit inicial" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit inicial" />
+    <MESSAGE value="Creado interfaces, clases y record principales" />
+    <MESSAGE value="Creado la clase main" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creado la clase main" />
   </component>
 </project>
