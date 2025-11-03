@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="616101a5-4103-4068-b0fd-47f1e1c85623" name="Changes" comment="Creado la clase main">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="616101a5-4103-4068-b0fd-47f1e1c85623" name="Changes" comment="Commit archvo workspace" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,13 +111,22 @@
       <option name="project" value="LOCAL" />
       <updated>1762165934071</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Commit archvo workspace">
+      <option name="closed" value="true" />
+      <created>1762168442867</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1762168442867</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit inicial" />
     <MESSAGE value="Creado interfaces, clases y record principales" />
     <MESSAGE value="Creado la clase main" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creado la clase main" />
+    <MESSAGE value="Commit archvo workspace" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit archvo workspace" />
   </component>
 </project>
